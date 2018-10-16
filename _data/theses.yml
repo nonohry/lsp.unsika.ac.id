@@ -1,0 +1,304 @@
+# List all theses here
+# Each thesis has the following items (similar to publications)
+# - citation
+#   publication_year
+#   pdf_file
+#   group ("media analytics" or "learning")
+#   type ("phd_thesis", "master_thesis")
+
+# PhD Theses
+# possible tags:
+# - Machine Learning
+# - Robotics
+# - Cognitive Science
+# - Learning
+# - Food
+# - Natural Language Processing
+# - Social Networks
+# - Visualization
+
+- citation: |
+    Soroush Vosoughi. (2015). **Automatic Detection and Verification of Rumors on Twitter**. Ph.D. Thesis, Massachusetts Institute of Technology.
+  publication_year: 2015
+  type: phd_thesis
+  pdf_file: http://lsm.media.mit.edu/papers/Soroush_Vosoughi_PHD_thesis.pdf
+  group: media analytics
+  tags:
+    - Machine Learning
+    - Social Networks
+    - Natural Language Processing
+
+
+- citation: |
+    Brandon C. Roy. (2013). **The Birth of a Word**. Ph.D. Thesis, Massachusetts Institute of Technology.
+  publication_year: 2013
+  type: phd_thesis
+  pdf_file: http://lsm.media.mit.edu/papers/bcroy-thesis_FINAL-sm.pdf
+  tags:
+    - Cognitive Science
+
+- citation: |
+    Jeff Orkin. (2013). **Collective Artificial Intelligence: Simulated Role-Playing from Crowdsourced Data**. Ph.D. Thesis, Massachusetts Institute of Technology.
+  publication_year: 2013
+  pdf_file: http://lsm.media.mit.edu/papers/orkin_phd_thesis_2013.pdf
+  type: phd_thesis
+  tags:
+    - Machine Learning
+    - Natural Language Processing
+
+- citation: |
+    Rony Kubat. (2012). **Will They Buy?** Ph.D. Thesis, Massachusetts Institute of Technology.
+  publication_year: 2012
+  pdf_file: http://lsm.media.mit.edu/papers/kubat-thesis_final_small.pdf
+  type: phd_thesis
+  tags:
+    - Machine Learning
+
+- citation: |
+    Philip DeCamp. (2012). **Data Visualization in the First Person**. Ph.D. Thesis, Massachusetts Institute of Technology.
+  publication_year: 2012
+  pdf_file: http://lsm.media.mit.edu/papers/decamp_phd_thesis.pdf
+  pdf_file_with_videos: http://lsm.media.mit.edu/papers/decamp_phd_thesis_with_videos.pdf
+  type: phd_thesis
+  tags:
+    - Visualization
+    - Cognitive Science
+
+- citation: |
+    Stefanie Tellex. (2010). **Natural Language and Spatial Reasoning**. Ph.D. Thesis, Massachusetts Institute of Technology.
+  publication_year: 2010
+  pdf_file: http://lsm.media.mit.edu/papers/tellex-phd-thesis-2010.pdf
+  type: phd_thesis
+  tags:
+    - Machine Learning
+    - Natural Language Processing
+
+- citation: |
+    Michael Ben Fleischman. (2008). **Grounding Language in Events**. Ph.D. Thesis, Massachusetts Institute of Technology.
+  publication_year: 2008
+  pdf_file: http://lsm.media.mit.edu/papers/fleischman_thesis_final.pdf
+  type: phd_thesis
+  tags:
+    - Machine Learning
+    - Natural Language Processing
+
+
+- citation: |
+    Kai-yuh Hsiao. (2007). **Embodied Object Schemas for Grounding Language Use**. Ph.D. Thesis, Massachusetts Institute of Technology.
+  publication_year: 2007
+  pdf_file: http://lsm.media.mit.edu/papers/hsiao-phd-mas-20070522.pdf
+  type: phd_thesis
+  tags:
+    - Robotics
+
+- citation: |
+    Peter Gorniak. (2005). **The Affordance-Based Concept**. Ph.D. Thesis, Massachusetts Institute of Technology.
+  publication_year: 2005
+  pdf_file: http://lsm.media.mit.edu/papers/pgorniak_thesis.pdf
+  type: phd_thesis
+  tags:
+    - Cognitive Science
+    - Natural Language Processing
+
+
+- citation: |
+    Deb Roy. (1999). **Learning from Sights and Sounds: A Computational Model**. Ph.D. in Media Arts and Sciences, MIT.
+  publication_year: 1999
+  pdf_file: http://lsm.media.mit.edu/papers/phd_thesis_1999.pdf
+  type: phd_thesis
+  tags:
+    - Cognitive Science
+    - Robotics
+
+
+# Master Theses
+- citation: |
+    Pau Perng-Hwa Kung. (2016). **Detecting and Analyzing Bursty Events on Twitter**. M.Sc. Thesis, Massachusetts Institute of Technology.
+  publication_year: 2016
+  pdf_file: http://lsm.media.mit.edu/papers/pau_thesis_final.pdf
+  type: master_thesis
+  group: media analytics
+  tags:
+    - Machine Learning
+    - Social Networks
+
+- citation: |
+    Sophie Chou. (2016). **Reading Between the (Party) Lines: How Political News is Seen and Shared**. M.Sc. Thesis, Massachusetts Institute of Technology.
+  publication_year: 2016
+  pdf_file: http://lsm.media.mit.edu/papers/chou_thesis.pdf
+  type: master_thesis
+  group: media analytics
+  tags:
+    - Social Networks
+    - Natural Language Processing
+
+- citation: |
+    Prashanth Vijayaraghavan. (2016). **Automatic Identification of Representative Content on Twitter**. M.Sc. Thesis, Massachusetts Institute of Technology.
+  publication_year: 2016
+  pdf_file: http://lsm.media.mit.edu/papers/Prashanth_ThesisFinal.pdf
+  type: master_thesis
+  group: media analytics
+  tags:
+    - Machine Learning
+    - Social Networks
+    - Natural Language Processing
+
+- citation: |
+    Matthew Miller. (2011). **Semantic Spaces: Behavior, Language and Word Learning in the Human Speechome Corpus**. M.Sc. in Media Arts and Sciences Thesis.
+  publication_year: 2011
+  pdf_file: http://lsm.media.mit.edu/papers/mmiller_MS_thesis.pdf
+  type: master_thesis
+  tags:
+    - Cognitive Science
+    - Machine Learning
+
+
+- citation: |
+    George Macaulay Shaw. (2011). **A Taxonomy of Situated Language in Natural Contexts**. M.Sc. in Media Arts and Sciences Thesis.
+  publication_year: 2011
+  pdf_file: http://lsm.media.mit.edu/papers/gshaw_thesisfinal1.pdf
+  type: master_thesis
+  tags:
+    - Machine Learning
+    - Cognitive Science
+
+- citation: |
+    Kleovoulos Tsourides. (2010). **Visually Grounded Virtual Accelerometers: A Longitudinal Video Investigation of Dyadic Bodily Dynamics around the time of Word Acquisition**. M.Sc. in Media Arts and Sciences Thesis.
+  publication_year: 2010
+  pdf_file: http://lsm.media.mit.edu/papers/Kleovoulos_(Leo)_Tsourides_SM_2010_thesis.pdf
+  type: master_thesis
+  tags:
+    - Cognitive Science
+
+
+- citation: |
+    Soroush Vosoughi. (2010). **Interactions of caregiver speech and early word learning in the Speechome Corpus: Computational Explorations**. M.Sc. Thesis, Massachusetts Institute of Technology.
+  publication_year: 2010
+  pdf_file: http://lsm.media.mit.edu/papers/soroush_masters_thesis_2010.pdf
+  type: master_thesis
+  tags:
+    - Machine Learning
+    - Cognitive Science
+
+- citation: |
+    Sophia Yuditskaya. (2010). **Automatic Vocal Recognition of a Child’s Perceived Emotional State within the Speechome Corpus**. M.Sc. in Media Arts and Sciences Thesis.
+  publication_year: 2010
+  pdf_file: http://lsm.media.mit.edu/papers/sophia_yuditskaya_thesisdoc_draft_final.pdf
+  type: master_thesis
+  tags:
+    - Natural Language Processing
+    - Cognitive Science
+
+
+- citation: |
+    Sheng-Ying Pao. (2010). **Connected Strangers: Manipulating Social Perceptions to Study Trust**. M.Sc. in Media Arts and Sciences Thesis.
+  publication_year: 2010
+  pdf_file: http://lsm.media.mit.edu/papers/aithpao-ms.pdf
+  type: master_thesis
+  tags:
+    - Cognitive Science
+
+- citation: |
+    Philip DeCamp. (2007). **HeadLock: Wide-Range Head Pose Estimation for Low Resolution Video**. M.Sc. in Media Arts and Sciences Thesis.
+  publication_year: 2007
+  pdf_file: http://lsm.media.mit.edu/papers/decamp_thesis.pdf
+  type: master_thesis
+  tags:
+    - Machine Learning
+    - Visualization
+
+
+- citation: |
+    Jeff Orkin. (2007). **Learning Plan Networks in Conversational Video Games**. M.Sc. in Media Arts and Sciences Thesis.
+  publication_year: 2007
+  pdf_file: http://lsm.media.mit.edu/papers/orkin_mastersthesis_2007.pdf
+  type: master_thesis
+  tags:
+    - Machine Learning
+
+
+- citation: |
+    Philipp Robbel. (2007). **Exploiting Object Dynamics for Recognition and Control**. M.Sc. in Media Arts and Sciences Thesis.
+  publication_year: 2007
+  pdf_file: http://lsm.media.mit.edu/papers/robbel_msthesis.09.05.2007.pdf
+  type: master_thesis
+  tags:
+    - Robotics
+    - Machine Learning
+
+- citation: |
+    Brandon Roy. (2007). **Human-Machine Collaboration for Rapid Speech Transcription**. M.Sc. in Media Arts and Sciences Thesis.
+  publication_year: 2007
+  pdf_file: http://lsm.media.mit.edu/papers/bcroy-masters-thesis.pdf
+  type: master_thesis
+  tags:
+    - Natural Language Processing
+
+
+- citation: |
+    Andre Ribeiro. (2005). **Graph Dynamics: Learning and Representation**. M.Sc. in Media Arts and Sciences Thesis.
+  publication_year: 2005
+  pdf_file: http://lsm.media.mit.edu/papers/ribeiro_thesis.pdf
+  type: master_thesis
+
+
+- citation: |
+    Charles Kehoe. (2005). **Indexical Grounding for a Mobile Robot**. M.Eng. EECS Thesis.
+  publication_year: 2005
+  pdf_file: http://lsm.media.mit.edu/papers/Kehoe_2005.pdf
+  type: master_thesis
+  tags:
+    - Robotics
+
+
+- citation: |
+    Niloy Mukherjee. (2003). **Spontenous Speech Recognition Using Visual Context-Aware Language Models**. M.Sc. in Media Arts and Sciences Thesis.
+  publication_year: 2003
+  pdf_file: http://lsm.media.mit.edu/papers/niloy.pdf
+  type: master_thesis
+  tags:
+    - Machine Learning
+
+
+- citation: |
+    Sheel Sanjay Dhande. (2003). **A Computational Model to Connect Gestalt Perception and Natural Language**. M.Sc. in Media Arts and Sciences Thesis.
+  publication_year: 2003
+  pdf_file: http://lsm.media.mit.edu/papers/mastersThesisSheelSDhande.pdf
+  type: master_thesis
+  tags:
+    - Natural Language Processing
+    - Cognitive Science
+
+
+- citation: |
+    Ewa Dominowska. (2002). **A Communication Aid with Context-Aware Vocabulary Prediction**. M.Eng. EECS Thesis.
+  publication_year: 2002
+  pdf_file: http://lsm.media.mit.edu/papers/Dominoska_2002.pdf
+  type: master_thesis
+
+
+- citation: |
+    Norimasa Yoshida. (2002). **Automatic Utterance Segmentation in Spontaneous Speech**. M.Eng. EECS Thesis.
+  publication_year: 2002
+  pdf_file: http://lsm.media.mit.edu/papers/yoshida_meng_thesis.pdf
+  type: master_thesis
+  tags:
+    - Natural Language Processing
+
+
+- citation: |
+    Ben Yoder. (2001). **Spontaneous Speech Recognition Using Hidden Markov Models**. M.Eng. EECS Thesis.
+  publication_year: 2001
+  pdf_file: http://lsm.media.mit.edu/papers/yoder-thesis.pdf
+  type: master_thesis
+  tags:
+    - Natural Language Processing
+
+- citation: |
+    Deb Roy. (1995). **NewsComm: A Hand-Held Device for Interactive Access to Structured Audio**. M.Sc. in Media Arts and Sciences, MIT.
+  publication_year: 1995
+  pdf_file: http://lsm.media.mit.edu/papers/masters_thesis_1995.pdf
+  type: master_thesis
+
+
+

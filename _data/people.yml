@@ -1,0 +1,334 @@
+# List all people here
+# Each person has the following items
+# - name
+#   groups ("media analytics" or "learning")
+#   title (e.g. "Masters Student")
+#   image
+#   url
+#   alumni (true or false or just not there if not)
+#   type (faculty, staff, visitor, postdoc, student, cortico) (see individual pages for people_order)
+
+- name: Preeta Bansal
+  title: Lecturer And Senior Advisor
+  type: visitor
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/PreetaCropped.jpg
+  groups:
+    - media analytics
+
+- name: Winston Chen
+  title: Research Affiliate
+  type: visitor
+  image: http://playfulwords.org/images/team/winston-chen.png
+  groups:
+    - media analytics
+    - learning
+    - cortico
+
+- name: Eric Chu
+  title: PhD Student
+  type: student
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/Eric-Cropped.jpeg
+  groups:
+    - media analytics
+    - learning
+
+- name: Lisa Conn
+  title: Graduate Researcher
+  type: student
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/IMG_4998-e1454462435442.jpg
+  groups:
+    - media analytics
+    - cortico
+  alumni: true
+
+- name: Marc Exposito
+  title: Masters Student
+  type: student
+  image: http://playfulwords.org/images/team/marc-exposito.jpg
+  groups:
+    - learning
+
+- name: Susan Fine
+  title: MA CCC-SLP
+  type: visitor
+  image: http://playfulwords.org/images/team/susan_fine.jpg
+  groups:
+    - learning
+
+
+- name: Amber Franey
+  title: Administrative Assistant
+  type: staff
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/IMG_4604-e1460396165680-150x150.jpg
+  groups:
+    - media analytics
+    - learning
+  alumni: true
+
+
+- name: Nabeel Gillani
+  title: PhD Student
+  type: student
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/Nabeel-150x150.png
+  groups:
+    - media analytics
+
+
+- name: Allen Gorin
+  title: Visiting Scholar
+  type: visitor
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/Gorin-Cropped.jpg
+  groups:
+    - media analytics
+    - learning
+
+
+- name: Anneli Hershman
+  title: PhD Student
+  type: student
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/Bio_Photo-1-283x300.jpg
+  groups:
+    - learning
+
+
+- name: Andrew Heyward
+  title: Visiting Researcher
+  type: visitor
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/thumb_2015-07-19-09.45.57_1024.jpg
+  groups:
+    - media analytics
+    - learning
+    - cortico
+
+
+- name: Mike Koehrsen
+  title: Research Software Architect
+  type: cortico
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/MIKE.png
+  groups:
+    - cortico
+
+
+- name: Uzra Kahn
+  title: Program Manager
+  type: staff
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/Uzra-Samia-Khan-headshot-150x150.jpg
+  groups:
+    - media analytics
+    - learning
+  alumni: true
+
+
+- name: James Kondo
+  title: Visiting Scientist
+  type: visitor
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/08/JamesCropped.jpg
+  groups:
+    - media analytics
+    - learning
+  alumni: true
+
+
+- name: Hugo Larochelle
+  title: Visiting Scientist
+  type: visitor
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/photo_udes_framed-150x150.png
+  groups:
+    - media analytics
+    - learning
+  alumni: true
+
+
+- name: Sneha Priscilla Makini
+  title: Masters Student
+  type: student
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/10501805_10152581047961774_928631575297463983_n-150x150.jpg
+  groups:
+    - learning
+
+
+- name: Neo Mohsenvand
+  title: PhD Student
+  type: student
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/NeoCropped2.jpg
+  groups:
+    - media analytics
+    - learning
+  alumni: true
+
+
+- name: Juliana Nazaré
+  title: PhD Student
+  type: student
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/juliana-e1467837169133-150x150.jpg
+  groups:
+    - learning
+
+
+- name: Eric Pennington
+  title: Research Software Engineer
+  type: staff
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/Eric-e1460464429911-127x150.jpg
+  groups:
+    - media analytics
+    - learning
+  alumni: true
+
+
+- name: Heather Pierce
+  title: Senior Administrator
+  type: staff
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/HeatherCropped.jpg
+  groups:
+    - media analytics
+    - learning
+
+
+- name: William Powers
+  title: Research Scientist
+  type: visitor
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/08/BillCropped.jpg
+  groups:
+    - media analytics
+    - cortico
+
+
+- name: Deb Roy
+  title: Director
+  type: leadership
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/roy_deb_130x142.jpg
+  groups:
+    - media analytics
+    - learning
+    - cortico
+
+
+- name: Martin Saveski
+  title: PhD Student
+  type: student
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/09/Martin.png
+  groups:
+    - media analytics
+
+
+- name: Nazmus Saquib
+  title: PhD Student
+  type: student
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/unnamed-150x150.png
+  groups:
+    - learning
+
+
+- name: Raphael Schaad
+  title: Masters Student
+  type: student
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/Raphael-Cropped.jpg
+  groups:
+    - media analytics
+    - learning
+  alumni: true
+
+
+- name: Alex Siegenfeld
+  title: Graduate Researcher
+  type: student
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/Alex.jpg
+  groups:
+    - media analytics
+
+
+- name: Russell Stevens
+  title: Deployment Lead
+  type: leadership
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/08/RussellCropped.jpg
+  groups:
+    - media analytics
+    - learning
+
+
+- name: Mina Soltangheis
+  title: Masters Student
+  type: student
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/Mina-Cropped.png
+  groups:
+    - learning
+  alumni: true
+
+
+- name: Ivan Sysoev
+  title: PhD Student
+  type: student
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/08/IvanCropped.jpg
+  groups:
+    - learning
+
+
+- name: Prashanth Vijayaraghavan
+  title: PhD Student
+  type: student
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/PrashanthCropped.jpg
+  groups:
+    - media analytics
+
+
+- name: Soroush Vosoughi
+  title: Postdoctoral Associate
+  type: postdoc
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/08/SoroushCropped.png
+  groups:
+    - media analytics
+
+
+- name: Luke Guolong Wang
+  title: Masters Student
+  type: student
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/Luke-Cropped.jpg
+  groups:
+    - media analytics
+    - learning
+  alumni: true
+
+
+- name: John West
+  title: Narrative Technologist
+  type: visitor
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/JOHN-WEST.jpg
+  groups:
+    - cortico
+    - media analytics
+
+
+- name: Eugene Yi
+  title: Deployment Strategist
+  type: cortico
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/Eugene-Profile-picture-150x150.jpg
+  groups:
+    - cortico
+
+
+- name: Ann Yuan
+  title: Masters Student
+  type: student
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/headshot-150x150.jpg
+  groups:
+    - media analytics
+
+
+- name: Vicky Zeamer
+  title: Graduate Researcher
+  type: student
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/vicky.jpg
+  groups:
+    - media analytics
+    - learning
+  alumni: true
+
+
+- name: Helen Zhou
+  title: Undergraduate Research Assistant
+  type: student
+  image: http://excedrin.media.mit.edu/socialmachines/wp-content/uploads/sites/27/2014/07/helen.jpg
+  groups:
+    - media analytics
+    - learning
+  alumni: true

@@ -1,0 +1,35 @@
+---
+layout: page
+---
+<div class="projects">
+  {% comment %}Start with the full set of projects{% endcomment %}
+  {% assign filtered_projects = site.data.projects %}
+
+  {% if page.group %}
+    {% assign filtered_projects = site.data.projects | where: 'group', page.group %}
+  {% endif %}
+
+  {% assign num_projects = filtered_projects | size %}
+
+  <div class="project-list {% if num_projects < 3 %}three-max{% endif %}">
+  {% for project in filtered_projects %}
+    <a class="project-item" style='background-image: url("{{ project.image }}");' href="{{ project.url }}">
+      <div class="project-title">
+        {{ project.title }}
+        {% if project.subtitle %}
+          <div class="project-subtitle">{{ project.subtitle }}</div>
+        {% endif %}
+      </div>
+    </a>
+  {% endfor %}
+    <a class="project-item" href="https://www.media.mit.edu/groups/social-machines/archived-projects/">
+      <div class="project-title">
+        Archived Projects
+      </div>
+    </a>
+  </div>
+
+  <div>
+    {{ content }}
+  </div>
+</div>

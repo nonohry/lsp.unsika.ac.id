@@ -1,0 +1,16 @@
+---
+layout: page
+# requires a list of images under `images` in thep age
+---
+{{ content }}
+
+<div class="image-gallery">
+  <div class="ui stackable {{page.numGalleryColumns | default: "four" }} column grid">
+  {% for image in page.images %}
+    <div class="column">
+      <a class="image-gallery-image" href="{{ image }}" target="_blank" rel="nofollow noopener noreferrer" style="background-image: url({{ image }})">
+      </a>
+    </div>
+  {% endfor %}
+  </div>
+</div>
